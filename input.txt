@@ -13,4 +13,3 @@ Springboot
 Angular
 Jquery
 Kannada
-Hindi
