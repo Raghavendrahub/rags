@@ -1,1 +1,15 @@
+Python
+Javascript
+c
+c++
+Java
+perl
+ruby
+HTML
+Javascript
+node.js
+react.js
+Springboot
+Angular
+Jquery
 
