@@ -12,4 +12,4 @@ react.js
 Springboot
 Angular
 Jquery
-
+Kannada
